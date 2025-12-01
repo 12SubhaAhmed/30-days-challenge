@@ -1,6 +1,8 @@
 What is SPECKit Plus?
 SPECKit Plus is a simple guide that helps students plan and complete their projects step by step. It breaks a big project into small clear parts so we always know what to do next. By using SPECKit Plus, students can understand their goals, organize their ideas, plan their work, and then complete the project without confusion.
 
+5 Core Concepts of SPECKit Plus
+
 1- /constitution 
 
 This step is about understanding the purpose of the project. Here we decide why we are doing the project, what problem it solves, and what the main goal is. It gives us a clear starting point.
